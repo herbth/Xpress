@@ -1,4 +1,4 @@
-
+## Time-indexed Formulation of a Job Shop scheduling Problem
 
 $$\\begin{array}{rrclcl}
 \\displaystyle \\min\_{ } & {C_{max}}, &\quad&\quad (obj)\\\\
