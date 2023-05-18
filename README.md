@@ -1,5 +1,7 @@
 ## Time-indexed Formulation of a Job Shop scheduling Problem
 
+this mathematical program is one of the formulations used to evaluate our Job Shop instances
+
 $$\\begin{array}{rrclcl}
 \\displaystyle \\min\_{ } & {C_{max}}, &\quad&\quad (obj)\\\\
 \\textrm{s.t.} 
